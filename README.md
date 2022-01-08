@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Oluwatobiloba 👋🏾‍💻
+## I'm Tobi! 👋🏾‍💻
 
 I am an experienced Software Engineer with expertise in programming languages such as JavaScript( React Native, TypeScript, Node JS), Python, Flutter and Swift.
 
